@@ -1,0 +1,25 @@
+{
+    "name": "aalfiann/url-param-firewall",
+    "description": "A PSR7 middleware for url parameter firewall for Slim Framework 3",
+    "keywords": ["middleware","firewall","psr7","slimphp"],
+    "authors": [
+        {
+            "name": "M ABD AZIZ ALFIAN",
+            "email": "aalfiann@gmail.com",
+            "homepage": "https://github.com/aalfiann",
+            "role": "Developer"
+        }
+    ],
+    "type": "library",
+    "require": {
+        "php": ">=5.4"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "aalfiann\\middleware\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
