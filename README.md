@@ -39,6 +39,7 @@ $app->get('/', function (Request $request, Response $response) {
 ```
 
 Open browser and now make a test:  
+http://yourdomain.com/                                  >> WORK  
 http://yourdomain.com/?page=1                           >> WORK  
 http://yourdomain.com/?page=1&_=3123123                 >> WORK  
 http://yourdomain.com/?product=test                     >> 404  
