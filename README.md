@@ -1,6 +1,6 @@
 # URL Parameter Firewall
 
-[![Version](https://img.shields.io/badge/latest-1.0.0-green.svg)](https://github.com/aalfiann/url-param-firewall)
+[![Version](https://img.shields.io/badge/latest-1.0.1-green.svg)](https://github.com/aalfiann/url-param-firewall)
 [![Total Downloads](https://poser.pugx.org/aalfiann/url-param-firewall/downloads)](https://packagist.org/packages/aalfiann/url-param-firewall)
 [![License](https://poser.pugx.org/aalfiann/url-param-firewall/license)](https://github.com/aalfiann/url-param-firewall/blob/HEAD/LICENSE.md)
 
